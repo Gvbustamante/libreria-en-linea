@@ -1,0 +1,14 @@
+
+.libro iframe {
+  border-radius: 10px;
+  margin: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  background-color: white;
+  width: 620px;
+  height: 400px;
+  }
+  
+  .container-libro {
+  display: flex;
+  flex-wrap: wrap;
+  }
